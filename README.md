@@ -1,9 +1,9 @@
-## Implement a Sudoku Solver From Scratch
+[## Implement a Sudoku Solver From Scratch
 
 
-NAME : LUKESH M
+NAME : THARUN V
 
-REGISTER NUMBER : 212224230144
+REGISTER NUMBER : 212224230290
 
 # Steps to solve the Sudoku Puzzle in Python
 
@@ -95,3 +95,4 @@ else:
 # RESULT:
 
 Thus implementing a Sudoku Solver from scratch is done successfully
+](https://aws.amazon.com/training/awsacademy/)
